@@ -6,12 +6,12 @@ Para rodar o jogo basta ter o **GCC instalado na maquina** e executar com o segu
 
 Linux
 ```
-	$ gcc batalha-naval-linux.c -o nome-do-executavel
-	$ ./nome-do-executavel 
+$ gcc batalha-naval-linux.c -o nome-do-executavel
+$ ./nome-do-executavel 
 ```
 
 Windows
 ```
-	$ gcc batalha-naval-windows.c -o nome-do-executavel
-	$ ./nome-do-executavel 
+$ gcc batalha-naval-windows.c -o nome-do-executavel
+$ ./nome-do-executavel 
 ```
